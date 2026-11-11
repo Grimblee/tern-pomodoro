@@ -1,0 +1,8 @@
+schema = 1
+id = "pomodoro"
+name = "Pomodoro"
+version = "0.1.0"
+description = "Pomodoro timer in the status line: 25 min work, 5 min break, 15 min break after four sessions."
+icon = "timer"
+host = "host.luau"
+window = "window.luau"
